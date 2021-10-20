@@ -11,6 +11,8 @@ begin
   end
   else
     WriteLn('No es el numero 2');
-    WriteLn('Hi 00(Para probar la edicion)');
+    //WriteLn('Hi 00(Para probar la edicion)');
+    WriteLn('Hi 00(Para probar la edicion01)');
     WriteLn('Hi 01');
+    WriteLn('Hi 02');
 end.
