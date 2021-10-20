@@ -12,4 +12,5 @@ begin
   else
     WriteLn('No es el numero 2');
     WriteLn('Hi 00');
+    WriteLn('Hi 01');
 end.
